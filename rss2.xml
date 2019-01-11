@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>한주의 IT공작소</title>
+    <link>https://it-crafts.github.io/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>프론트엔드 개발, 백엔드 개발, 웹서비스 기획, 앱서비스 기획, 커머스 트렌드, 디지털 마케팅</description>
+    <pubDate>Fri, 11 Jan 2019 00:21:55 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>테스트</title>
+      <link>https://it-crafts.github.io/2019/01/09/test/</link>
+      <guid>https://it-crafts.github.io/2019/01/09/test/</guid>
+      <pubDate>Wed, 09 Jan 2019 10:22:40 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;책이름&quot;&gt;&lt;a href=&quot;#책이름&quot; class=&quot;headerlink&quot; title=&quot;책이름&quot;&gt;&lt;/a&gt;책이름&lt;/h1&gt;&lt;h2 id=&quot;대제목&quot;&gt;&lt;a href=&quot;#대제목&quot; class=&quot;headerlink&quot; title=&quot;대제목&quot;&gt;&lt;/a&gt;대제목&lt;/h
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="책이름"><a href="#책이름" class="headerlink" title="책이름"></a>책이름</h1><h2 id="대제목"><a href="#대제목" class="headerlink" title="대제목"></a>대제목</h2><h3 id="중제목"><a href="#중제목" class="headerlink" title="중제목"></a>중제목</h3><h5 id="소제목"><a href="#소제목" class="headerlink" title="소제목"></a>소제목</h5><ul><li>항목<ul><li>세부항목</li></ul></li></ul><p>일반글 <a href="http://www.ssg.com/" target="_blank" rel="noopener">링크</a><br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">const</span> func = x -&gt; x * x;</span><br></pre></td></tr></table></figure></p>]]></content:encoded>
+      
+      <comments>https://it-crafts.github.io/2019/01/09/test/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://it-crafts.github.io/2019/01/08/hello-world/</link>
+      <guid>https://it-crafts.github.io/2019/01/08/hello-world/</guid>
+      <pubDate>Tue, 08 Jan 2019 01:14:26 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content:encoded>
+      
+      <comments>https://it-crafts.github.io/2019/01/08/hello-world/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
